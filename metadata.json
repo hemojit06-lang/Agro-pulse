@@ -1,0 +1,5 @@
+{
+  "name": "AgroPulse: Master Farm Dashboard",
+  "description": "A professional-grade farm data analyst dashboard that tracks income, expenses, and sales performance with running monthly totals and automated log parsing.",
+  "requestFramePermissions": []
+}
